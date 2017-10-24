@@ -1,0 +1,3 @@
+cert/*
+config.local.json
+node_modules/*
